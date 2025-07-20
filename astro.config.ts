@@ -70,7 +70,7 @@ export default defineConfig({
         ],
         start_url: "/",
         background_color: "#1d1f21",
-        theme_color: "#2bbc8a",
+        theme_color: "#0090feff",
         display: "standalone",
         config: {
             insertFaviconLinks: false,
@@ -110,7 +110,7 @@ export default defineConfig({
     prefetchAll: true,
   },
     // ! 改为你的网站地址，不然社交图片无法加载
-    site: "https://demo.343700.xyz/",
+    site: "https://blog.perseverantmind.top/",
     vite: {
         optimizeDeps: {
             exclude: ["@resvg/resvg-js"],
