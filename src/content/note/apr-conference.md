@@ -4,7 +4,7 @@ date: 2025-04-09 17:15:00
 description: 看到成绩、总结经验、展望未来
 permalink: /posts/apr-conference/
 cover: /posts/apr-conference/cover.jpg
-publishDate: 2025-07-20T20:12
+publishDate: 2025-04-09T20:12
 ---
 从二月中旬开学以来，时间过得飞快，这会儿已经快到四月中旬了。不妨驻足停留片刻，回首过去两个月走过的路，**看到成绩、总结经验，再规划未来一段时间的道路。**
 
