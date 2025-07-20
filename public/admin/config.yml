@@ -32,7 +32,7 @@ collections:
       - { label: "正文", name: "body", widget: "markdown" }
 
   - name: "post"
-    label: "博文"
+    label: "文章"
     folder: "src/content/post"
     create: true
     slug: "{{year}}.{{month}}.{{day}}_{{slug}}"
